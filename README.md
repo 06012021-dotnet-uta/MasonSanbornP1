@@ -6,9 +6,9 @@ This is a full stack Web Application designed to allow users to create accounts 
 
 ## Technologies Used
 
-SSMS
-Visual Studio
-* Tech 3 - version 3.0
+*  SSMS
+*  Visual Studio
+*  GitHub
 
 ## Features
 
