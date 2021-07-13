@@ -34,6 +34,3 @@ Link the program to your database using the connection string.
 Run the P1Main Startup to begin hosting the site locally.
 Interact with the site as desired.
 
-## License
-
-This project uses the following license: [<MIT Liscense>].
