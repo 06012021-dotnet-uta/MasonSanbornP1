@@ -1,44 +1,38 @@
-# PROJECT NAME
+# Mason Sanborn P1
 
 ## Project Description
 
-Here goes your awesome project description!
+This is a full stack Web Application designed to allow users to create accounts and log in to store locations. The users can then place orders of various products stored in the locations database. These orders can then be viewed and sorted by location or userId.
 
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
+SSMS
+Visual Studio
 * Tech 3 - version 3.0
 
 ## Features
 
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+Create and store user accounts
+Validate user Logins
+Create orders of various products
+Multi-conditional user sorting
+Product filtering by category
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+Create methods to restock stores
+Update GUIs quality to increase user enjoyment during use
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+git clone https://github.com/06012021-dotnet-uta/MasonSanbornP1.git
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-- All the `code` required to get started
-- Images of what it should look like
+Create Database using the P1DbBuilding.sql query file in ssms.
+Link the program to your database using the connection string.
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-
-## Contributors
-
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+Run the P1Main Startup to begin hosting the site locally.
+Interact with the site as desired.
 
 ## License
 
