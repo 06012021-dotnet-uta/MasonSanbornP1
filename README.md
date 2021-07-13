@@ -36,4 +36,4 @@ Interact with the site as desired.
 
 ## License
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: [<MIT Liscense>].
